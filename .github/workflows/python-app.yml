@@ -33,4 +33,4 @@ jobs:
        
     - name: Test with pytest
       run: |
-        pytest projet QR Code\test_QRCoode.py
+        pytest 
